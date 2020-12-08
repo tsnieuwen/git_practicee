@@ -1,2 +1,2 @@
-x = variable1
-y = variable2 
+z = variable1
+y = variable2
